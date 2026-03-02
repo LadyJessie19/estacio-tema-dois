@@ -18,8 +18,7 @@
 
 ### 🕹️ **Regras do Jogo** 📝
 
-* 
-**Cadastro:** ✍️ Insira os dados de duas cidades diferentes, como População, Área e PIB.
+* **Cadastro:** ✍️ Insira os dados de duas cidades diferentes, como População, Área e PIB.
 
 * **Cálculos:** 🔢 O sistema calcula automaticamente a **Densidade Populacional** e o **PIB per Capita**.
 
